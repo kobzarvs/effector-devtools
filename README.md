@@ -2,7 +2,7 @@
 
 ## Demo
 
-![demo](images/video.mp4)
+![demo](images/video.webm)
 
 ## Getting started
 
