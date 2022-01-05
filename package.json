@@ -1,0 +1,36 @@
+{
+  "name": "effector-devtools",
+  "version": "0.1.0",
+  "main": "dist/index.js",
+  "dependencies": {
+    "@types/node": "^16.7.13",
+    "effector": "^22.1.2",
+    "effector-react": "^22.0.6",
+    "lodash": "^4.17.21",
+    "typescript": "^4.4.2"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.178"
+  }
+}
