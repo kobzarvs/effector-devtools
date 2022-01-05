@@ -1,6 +1,7 @@
 {
   "name": "effector-devtools",
   "version": "0.3.0",
+  "repository": "https://github.com/kobzarvs/effector-devtools",
   "main": "dist/index.js",
   "dependencies": {
     "@types/node": "^16.7.13",
